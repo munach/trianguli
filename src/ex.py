@@ -1,7 +1,7 @@
 import cv2 as cv
 import sys
 from matplotlib import pyplot as plt
-img = cv.imread("storch.jpg")
+img = cv.imread("unke.jpg")
 
 
 if img is None:
